@@ -1,7 +1,6 @@
 const fs = require("fs");
 const readline = require("readline");
 const axios = require("axios");
-const cheerio = require("cheerio");
 const path = require("path");
 const puppeteer = require("puppeteer");
 
